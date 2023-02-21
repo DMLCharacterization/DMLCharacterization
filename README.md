@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **DMLCharacterization/DMLCharacterization** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Description
+This repository includes traces collected for a workload characterization study leveraging Apache Spark, MLLib & BigDL libraries and Grid'5000. The traces are located in '''traces'''. A technical report ('''techrep.pdf''') is provided, it describes the collected traces, the methodology of their collection and their statistical features.
