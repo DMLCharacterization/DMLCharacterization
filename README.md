@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 # Description
-This repository includes traces collected for a workload characterization study leveraging Apache Spark, MLLib & BigDL libraries and Grid'5000. The traces are located in '''traces'''. A technical report ('''techrep.pdf''') is provided, it describes the collected traces, the methodology of their collection and their statistical features.
+This repository includes distributed machine learning (DML) workloads traces collected for a workload characterization study leveraging Apache Spark, MLLib & BigDL, and Grid'5000. 
+- The traces are located in ```traces```. 
+- A technical report (```techrep.pdf```) is provided, it describes the collected traces, the methodology of their collection and their statistical features.
