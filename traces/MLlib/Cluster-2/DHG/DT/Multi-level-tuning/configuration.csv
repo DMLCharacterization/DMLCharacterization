@@ -1,0 +1,11 @@
+platformId,spark.cores.max,spark.executor.memory,spark.rdd.compress,spark.shuffle.spill.compress,spark.shuffle.file.buffer,spark.serializer,spark.storage.memoryFraction,spark.shuffle.compress,spark.locality.wait,spark.io.compression.codec,spark.shuffle.io.preferDirectBufs,spark.master,spark.reducer.maxSizeInFlight,spark.executor.cores
+8,192.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,8.0
+1,24.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,2.0
+5,96.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,4.0
+3,96.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,2.0
+6,192.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,4.0
+2,48.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,2.0
+9,384.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,8.0
+4,48.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,4.0
+7,96.0,5g,False,True,32k,org.apache.spark.serializer.JavaSerializer,0.6,True,3s,lz4,True,spark://master:7077,48m,8.0
+101,,,,,,,,,,,,spark://master:7077,,

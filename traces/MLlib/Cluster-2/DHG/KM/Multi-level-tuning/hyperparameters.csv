@@ -1,0 +1,10 @@
+acronym,algorithm,hp1,val1,hp2,val2
+KM,KM-tol-1e-06-maxIter-10,tol,1e-06,maxIter,10.0
+KM,KM-tol-1e-06-maxIter-20,tol,1e-06,maxIter,20.0
+KM,KM-tol-1e-06-maxIter-100,tol,1e-06,maxIter,100.0
+KM,KM-tol-0.0001-maxIter-10,tol,0.0001,maxIter,10.0
+KM,KM-tol-0.0001-maxIter-20,tol,0.0001,maxIter,20.0
+KM,KM-tol-0.0001-maxIter-100,tol,0.0001,maxIter,100.0
+KM,KM-tol-0.1-maxIter-10,tol,0.1,maxIter,10.0
+KM,KM-tol-0.1-maxIter-20,tol,0.1,maxIter,20.0
+KM,KM-tol-0.1-maxIter-100,tol,0.1,maxIter,100.0
