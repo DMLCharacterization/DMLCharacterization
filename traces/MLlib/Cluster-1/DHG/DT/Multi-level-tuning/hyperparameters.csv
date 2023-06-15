@@ -1,0 +1,10 @@
+acronym,algorithm,hp1,val1,hp2,val2
+DT,DT-maxDepth-5-maxBins-16,maxDepth,5.0,maxBins,16
+DT,DT-maxDepth-5-maxBins-32,maxDepth,5.0,maxBins,32
+DT,DT-maxDepth-5-maxBins-48,maxDepth,5.0,maxBins,48
+DT,DT-maxDepth-10-maxBins-16,maxDepth,10.0,maxBins,16
+DT,DT-maxDepth-10-maxBins-32,maxDepth,10.0,maxBins,32
+DT,DT-maxDepth-10-maxBins-48,maxDepth,10.0,maxBins,48
+DT,DT-maxDepth-15-maxBins-16,maxDepth,15.0,maxBins,16
+DT,DT-maxDepth-15-maxBins-32,maxDepth,15.0,maxBins,32
+DT,DT-maxDepth-15-maxBins-48,maxDepth,15.0,maxBins,48
