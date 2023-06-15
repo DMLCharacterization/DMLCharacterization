@@ -1,0 +1,13 @@
+algorithm,acronym,hp,hpValue
+RFR-maxBins-4,RFR,maxBins,4
+RFR-maxBins-16,RFR,maxBins,16
+RFR-maxBins-32,RFR,maxBins,32
+RFR-maxBins-48,RFR,maxBins,48
+RFR-maxDepth-5,RFR,maxDepth,5
+RFR-maxDepth-10,RFR,maxDepth,10
+RFR-maxDepth-15,RFR,maxDepth,15
+RFR-maxDepth-20,RFR,maxDepth,20
+RFR-numTrees-10,RFR,numTrees,10
+RFR-numTrees-50,RFR,numTrees,50
+RFR-numTrees-100,RFR,numTrees,100
+RFR-numTrees-150,RFR,numTrees,150

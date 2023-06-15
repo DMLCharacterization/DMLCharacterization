@@ -1,0 +1,7 @@
+algorithm,acronym,hp,hpValue
+BKM-maxIter-5,BKM,maxIter,5
+BKM-maxIter-10,BKM,maxIter,10
+BKM-maxIter-15,BKM,maxIter,15
+BKM-maxIter-20,BKM,maxIter,20
+BKM-maxIter-50,BKM,maxIter,50
+BKM-maxIter-100,BKM,maxIter,100
