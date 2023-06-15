@@ -1,0 +1,11 @@
+algorithm,acronym,hp,hpValue
+BLR-maxIter-5,BLR,maxIter,5
+BLR-maxIter-10,BLR,maxIter,10
+BLR-maxIter-15,BLR,maxIter,15
+BLR-maxIter-20,BLR,maxIter,20
+BLR-maxIter-50,BLR,maxIter,50
+BLR-maxIter-100,BLR,maxIter,100
+BLR-tol-1e-06,BLR,tol,1e-06
+BLR-tol-0.0001,BLR,tol,0.0001
+BLR-tol-0.01,BLR,tol,0.01
+BLR-tol-0.1,BLR,tol,0.1

@@ -1,0 +1,14 @@
+algorithm,acronym,hp,hpValue
+MLP-maxIter-5,MLP,maxIter,5
+MLP-maxIter-10,MLP,maxIter,10
+MLP-maxIter-15,MLP,maxIter,15
+MLP-maxIter-20,MLP,maxIter,20
+MLP-maxIter-50,MLP,maxIter,50
+MLP-maxIter-100,MLP,maxIter,100
+MLP-stepSize-0.003,MLP,stepSize,0.003
+MLP-stepSize-0.03,MLP,stepSize,0.03
+MLP-stepSize-0.3,MLP,stepSize,0.3
+MLP-tol-1e-06,MLP,tol,1e-06
+MLP-tol-0.0001,MLP,tol,0.0001
+MLP-tol-0.01,MLP,tol,0.01
+MLP-tol-0.1,MLP,tol,0.1

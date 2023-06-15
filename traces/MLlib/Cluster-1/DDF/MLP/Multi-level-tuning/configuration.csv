@@ -1,0 +1,14 @@
+platformId,spark.master,spark.executor.memory,spark.executor.cores,spark.cores.max,spark.shuffle.file.buffer,spark.reducer.maxSizeInFlight,spark.storage.memoryFraction,spark.locality.wait,spark.shuffle.spill.compress,spark.shuffle.io.preferDirectBufs,spark.rdd.compress,spark.io.compression.codec,spark.shuffle.compress,spark.serializer
+9,spark://eiger-3:7077,5g,4.0,8.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+6,spark://eiger-3:7077,5g,2.0,8.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+8,spark://eiger-3:7077,5g,2.0,16.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+10,spark://eiger-3:7077,5g,4.0,16.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+7,spark://eiger-3:7077,5g,2.0,12.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+12,spark://eiger-3:7077,5g,4.0,32.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+3,spark://eiger-3:7077,5g,1.0,6.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+2,spark://eiger-3:7077,5g,1.0,4.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+11,spark://eiger-3:7077,5g,4.0,24.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+5,spark://eiger-3:7077,5g,2.0,4.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+1,spark://eiger-3:7077,5g,1.0,2.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+4,spark://eiger-3:7077,5g,1.0,8.0,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
+101,spark://eiger-3:7077,,,,,,,,,,,,,
