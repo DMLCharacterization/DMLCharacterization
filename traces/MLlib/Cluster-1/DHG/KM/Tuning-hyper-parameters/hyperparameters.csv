@@ -1,0 +1,11 @@
+algorithm,acronym,hp,hpValue
+KM-maxIter-5,KM,maxIter,5
+KM-maxIter-10,KM,maxIter,10
+KM-maxIter-15,KM,maxIter,15
+KM-maxIter-20,KM,maxIter,20
+KM-maxIter-50,KM,maxIter,50
+KM-maxIter-100,KM,maxIter,100
+KM-tol-1e-06,KM,tol,1e-06
+KM-tol-0.0001,KM,tol,0.0001
+KM-tol-0.01,KM,tol,0.01
+KM-tol-0.1,KM,tol,0.1

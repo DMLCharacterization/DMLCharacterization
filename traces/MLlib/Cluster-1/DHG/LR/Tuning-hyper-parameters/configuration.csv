@@ -1,0 +1,2 @@
+platformId,spark.master,spark.executor.memory,spark.executor.instances,spark.executor.cores,spark.cores.max,spark.shuffle.file.buffer,spark.reducer.maxSizeInFlight,spark.storage.memoryFraction,spark.locality.wait,spark.shuffle.spill.compress,spark.shuffle.io.preferDirectBufs,spark.rdd.compress,spark.io.compression.codec,spark.shuffle.compress,spark.serializer
+0,spark://eiger-3:7077,5g,4,4,16,32k,48m,0.6,3s,True,True,False,snappy,True,org.apache.spark.serializer.JavaSerializer
