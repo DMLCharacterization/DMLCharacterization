@@ -1,0 +1,11 @@
+algorithm,acronym,hp,hpValue
+LR-maxIter-5,LR,maxIter,5
+LR-maxIter-10,LR,maxIter,10
+LR-maxIter-15,LR,maxIter,15
+LR-maxIter-20,LR,maxIter,20
+LR-maxIter-50,LR,maxIter,50
+LR-maxIter-100,LR,maxIter,100
+LR-tol-1e-06,LR,tol,1e-06
+LR-tol-0.0001,LR,tol,0.0001
+LR-tol-0.01,LR,tol,0.01
+LR-tol-0.1,LR,tol,0.1

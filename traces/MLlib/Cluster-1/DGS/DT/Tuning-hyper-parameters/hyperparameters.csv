@@ -1,0 +1,9 @@
+algorithm,acronym,hp,hpValue
+DT-maxBins-4,DT,maxBins,4
+DT-maxBins-16,DT,maxBins,16
+DT-maxBins-32,DT,maxBins,32
+DT-maxBins-48,DT,maxBins,48
+DT-maxDepth-5,DT,maxDepth,5
+DT-maxDepth-10,DT,maxDepth,10
+DT-maxDepth-15,DT,maxDepth,15
+DT-maxDepth-20,DT,maxDepth,20

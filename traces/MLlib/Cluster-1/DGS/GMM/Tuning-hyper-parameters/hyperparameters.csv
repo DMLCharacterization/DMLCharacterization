@@ -1,0 +1,11 @@
+algorithm,acronym,hp,hpValue
+GMM-maxIter-5,GMM,maxIter,5
+GMM-maxIter-10,GMM,maxIter,10
+GMM-maxIter-15,GMM,maxIter,15
+GMM-maxIter-20,GMM,maxIter,20
+GMM-maxIter-50,GMM,maxIter,50
+GMM-maxIter-100,GMM,maxIter,100
+GMM-tol-1e-06,GMM,tol,1e-06
+GMM-tol-0.0001,GMM,tol,0.0001
+GMM-tol-0.01,GMM,tol,0.01
+GMM-tol-0.1,GMM,tol,0.1

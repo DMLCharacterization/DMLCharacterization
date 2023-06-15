@@ -1,0 +1,10 @@
+acronym,algorithm,hp1,val1,hp2,val2
+MLP,MLP-tol-1e-06-maxIter-10,tol,1e-06,maxIter,10
+MLP,MLP-tol-1e-06-maxIter-20,tol,1e-06,maxIter,20
+MLP,MLP-tol-1e-06-maxIter-100,tol,1e-06,maxIter,100
+MLP,MLP-tol-0.0001-maxIter-10,tol,0.0001,maxIter,10
+MLP,MLP-tol-0.0001-maxIter-20,tol,0.0001,maxIter,20
+MLP,MLP-tol-0.0001-maxIter-100,tol,0.0001,maxIter,100
+MLP,MLP-tol-0.1-maxIter-10,tol,0.1,maxIter,10
+MLP,MLP-tol-0.1-maxIter-20,tol,0.1,maxIter,20
+MLP,MLP-tol-0.1-maxIter-100,tol,0.1,maxIter,100
